@@ -1,0 +1,1 @@
+https://github.com/YadavThapa/Django-Sticky-Notes-Application-Part-2
